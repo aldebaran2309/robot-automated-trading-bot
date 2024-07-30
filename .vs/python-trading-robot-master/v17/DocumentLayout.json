@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\portfolio.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\portfolio.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\setup.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:setup.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\strategy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:strategy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\pyvenv.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\pyvenv.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pythonw.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\pythonw.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\python.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\python.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip3.9.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\pip3.9.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\pip.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\numpy-config.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\numpy-config.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\f2py.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\f2py.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\cygdb.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\cygdb.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\Activate.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\Activate.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\activate.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myenv\\Scripts\\activate||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators_compare.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:samples\\trading_robot_indicators_compare.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:samples\\trading_robot_indicators.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:samples\\trading_robot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\trades.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\trades.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\stock_frame.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\stock_frame.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\robot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\robot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\indicators.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\indicators.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\order_status.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pyrobot\\order_status.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\trade_object.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\trade_object.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\portfolio_object.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\portfolio_object.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\algo_trading.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\algo_trading.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\strategies\\Strategy 1 - Golden Crossover.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\strategies\\Strategy 1 - Golden Crossover.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\write_config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\write_config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\top_level.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:python_trading_robot.egg-info\\top_level.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\SOURCES.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:python_trading_robot.egg-info\\SOURCES.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\requires.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:python_trading_robot.egg-info\\requires.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\sample_oco.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\sample_oco.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\order_response.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\order_response.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\tests\\test_trades.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\test_trades.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pythonw.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pythonw.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\pythonw.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pythonw.exe",
+              "RelativeToolTip": "myenv\\Scripts\\pythonw.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:07.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "python.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\python.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\python.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\python.exe",
+              "RelativeToolTip": "myenv\\Scripts\\python.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:06.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pip3.9.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip3.9.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\pip3.9.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip3.9.exe",
+              "RelativeToolTip": "myenv\\Scripts\\pip3.9.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pip.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\pip.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\pip.exe",
+              "RelativeToolTip": "myenv\\Scripts\\pip.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:03.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "numpy-config.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\numpy-config.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\numpy-config.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\numpy-config.exe",
+              "RelativeToolTip": "myenv\\Scripts\\numpy-config.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T11:44:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "f2py.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\f2py.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\f2py.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\f2py.exe",
+              "RelativeToolTip": "myenv\\Scripts\\f2py.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:17:01.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cygdb.exe",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\cygdb.exe",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\cygdb.exe",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\cygdb.exe",
+              "RelativeToolTip": "myenv\\Scripts\\cygdb.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-07-18T18:16:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Activate.ps1",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\Activate.ps1",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\Activate.ps1",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\Activate.ps1",
+              "RelativeToolTip": "myenv\\Scripts\\Activate.ps1",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T18:16:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "setup.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\setup.py",
+              "RelativeDocumentMoniker": "setup.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\setup.py",
+              "RelativeToolTip": "setup.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T07:04:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "portfolio.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\portfolio.py",
+              "RelativeDocumentMoniker": "pyrobot\\portfolio.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\portfolio.py",
+              "RelativeToolTip": "pyrobot\\portfolio.py",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T07:27:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strategy.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\strategy.py",
+              "RelativeDocumentMoniker": "strategy.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\strategy.py",
+              "RelativeToolTip": "strategy.py",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwDMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-18T11:51:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pyvenv.cfg",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\pyvenv.cfg",
+              "RelativeDocumentMoniker": "myenv\\pyvenv.cfg",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\pyvenv.cfg",
+              "RelativeToolTip": "myenv\\pyvenv.cfg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T18:17:08.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "activate.bat",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate.bat",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\activate.bat",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate.bat",
+              "RelativeToolTip": "myenv\\Scripts\\activate.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2024-07-18T18:16:30.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "activate",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate",
+              "RelativeDocumentMoniker": "myenv\\Scripts\\activate",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\myenv\\Scripts\\activate",
+              "RelativeToolTip": "myenv\\Scripts\\activate",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T18:16:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "trading_robot_indicators_compare.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators_compare.py",
+              "RelativeDocumentMoniker": "samples\\trading_robot_indicators_compare.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators_compare.py",
+              "RelativeToolTip": "samples\\trading_robot_indicators_compare.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-18T18:15:23.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "trading_robot.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot.py",
+              "RelativeDocumentMoniker": "samples\\trading_robot.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot.py",
+              "RelativeToolTip": "samples\\trading_robot.py",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-18T18:15:15.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "indicators.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\indicators.py",
+              "RelativeDocumentMoniker": "pyrobot\\indicators.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\indicators.py",
+              "RelativeToolTip": "pyrobot\\indicators.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T07:27:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "robot.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\robot.py",
+              "RelativeDocumentMoniker": "pyrobot\\robot.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\robot.py",
+              "RelativeToolTip": "pyrobot\\robot.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8CAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-17T13:44:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "stock_frame.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\stock_frame.py",
+              "RelativeDocumentMoniker": "pyrobot\\stock_frame.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\stock_frame.py",
+              "RelativeToolTip": "pyrobot\\stock_frame.py",
+              "ViewState": "AQIAANYAAAAAAAAAAAAAAOIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-17T13:44:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "trading_robot_indicators.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators.py",
+              "RelativeDocumentMoniker": "samples\\trading_robot_indicators.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\samples\\trading_robot_indicators.py",
+              "RelativeToolTip": "samples\\trading_robot_indicators.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-18T11:45:26.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "order_status.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\order_status.py",
+              "RelativeDocumentMoniker": "pyrobot\\order_status.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\order_status.py",
+              "RelativeToolTip": "pyrobot\\order_status.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T07:27:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "trade_object.md",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\trade_object.md",
+              "RelativeDocumentMoniker": "docs\\trade_object.md",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\trade_object.md",
+              "RelativeToolTip": "docs\\trade_object.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T17:48:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "trades.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\trades.py",
+              "RelativeDocumentMoniker": "pyrobot\\trades.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\pyrobot\\trades.py",
+              "RelativeToolTip": "pyrobot\\trades.py",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-17T13:44:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "portfolio_object.md",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\portfolio_object.md",
+              "RelativeDocumentMoniker": "docs\\portfolio_object.md",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\portfolio_object.md",
+              "RelativeToolTip": "docs\\portfolio_object.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T17:48:20.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "write_config.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\write_config.py",
+              "RelativeDocumentMoniker": "config\\write_config.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\write_config.py",
+              "RelativeToolTip": "config\\write_config.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-18T17:46:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\config.ini",
+              "RelativeDocumentMoniker": "config\\config.ini",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\config\\config.ini",
+              "RelativeToolTip": "config\\config.ini",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-07-18T17:46:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "requires.txt",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\requires.txt",
+              "RelativeDocumentMoniker": "python_trading_robot.egg-info\\requires.txt",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\requires.txt",
+              "RelativeToolTip": "python_trading_robot.egg-info\\requires.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T17:46:26.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SOURCES.txt",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\SOURCES.txt",
+              "RelativeDocumentMoniker": "python_trading_robot.egg-info\\SOURCES.txt",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\SOURCES.txt",
+              "RelativeToolTip": "python_trading_robot.egg-info\\SOURCES.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T17:46:27.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Strategy 1 - Golden Crossover.md",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\strategies\\Strategy 1 - Golden Crossover.md",
+              "RelativeDocumentMoniker": "docs\\strategies\\Strategy 1 - Golden Crossover.md",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\strategies\\Strategy 1 - Golden Crossover.md",
+              "RelativeToolTip": "docs\\strategies\\Strategy 1 - Golden Crossover.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T11:50:43.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "algo_trading.md",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\algo_trading.md",
+              "RelativeDocumentMoniker": "docs\\algo_trading.md",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\docs\\algo_trading.md",
+              "RelativeToolTip": "docs\\algo_trading.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T11:44:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "top_level.txt",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\top_level.txt",
+              "RelativeDocumentMoniker": "python_trading_robot.egg-info\\top_level.txt",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\python_trading_robot.egg-info\\top_level.txt",
+              "RelativeToolTip": "python_trading_robot.egg-info\\top_level.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T17:46:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "sample_oco.jsonc",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\sample_oco.jsonc",
+              "RelativeDocumentMoniker": "data\\sample_oco.jsonc",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\sample_oco.jsonc",
+              "RelativeToolTip": "data\\sample_oco.jsonc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T11:44:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "order_response.jsonc",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\order_response.jsonc",
+              "RelativeDocumentMoniker": "data\\order_response.jsonc",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\order_response.jsonc",
+              "RelativeToolTip": "data\\order_response.jsonc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T11:44:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\orders.json",
+              "RelativeDocumentMoniker": "data\\orders.json",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\data\\orders.json",
+              "RelativeToolTip": "data\\orders.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T11:44:31.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "test_trades.py",
+              "DocumentMoniker": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\tests\\test_trades.py",
+              "RelativeDocumentMoniker": "tests\\test_trades.py",
+              "ToolTip": "C:\\Users\\rohin\\OneDrive\\Desktop\\python-trading-robot-master\\tests\\test_trades.py",
+              "RelativeToolTip": "tests\\test_trades.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-15T07:24:32.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

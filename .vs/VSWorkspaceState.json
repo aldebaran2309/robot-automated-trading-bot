@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myenv",
+    "\\myenv\\Include",
+    "\\myenv\\Lib",
+    "\\myenv\\Scripts",
+    "\\pyrobot",
+    "\\pyrobot\\__pycache__",
+    "\\samples",
+    "\\samples\\responses",
+    "\\tests"
+  ],
+  "SelectedNode": "\\pyrobot\\portfolio.py",
+  "PreviewInSolutionExplorer": false
+}
